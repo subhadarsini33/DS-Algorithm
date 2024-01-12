@@ -1,0 +1,6 @@
+E:\Project\AlgorithmAndDS\PalindromeNumber\PalindromeNumber\bin\Debug\PalindromeNumber.exe.config
+E:\Project\AlgorithmAndDS\PalindromeNumber\PalindromeNumber\bin\Debug\PalindromeNumber.exe
+E:\Project\AlgorithmAndDS\PalindromeNumber\PalindromeNumber\bin\Debug\PalindromeNumber.pdb
+E:\Project\AlgorithmAndDS\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.csprojResolveAssemblyReference.cache
+E:\Project\AlgorithmAndDS\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.exe
+E:\Project\AlgorithmAndDS\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.pdb
