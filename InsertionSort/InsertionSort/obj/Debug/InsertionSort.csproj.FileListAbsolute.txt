@@ -1,0 +1,6 @@
+E:\Project\AlgorithmAndDS\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe.config
+E:\Project\AlgorithmAndDS\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe
+E:\Project\AlgorithmAndDS\InsertionSort\InsertionSort\bin\Debug\InsertionSort.pdb
+E:\Project\AlgorithmAndDS\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csprojResolveAssemblyReference.cache
+E:\Project\AlgorithmAndDS\InsertionSort\InsertionSort\obj\Debug\InsertionSort.exe
+E:\Project\AlgorithmAndDS\InsertionSort\InsertionSort\obj\Debug\InsertionSort.pdb
