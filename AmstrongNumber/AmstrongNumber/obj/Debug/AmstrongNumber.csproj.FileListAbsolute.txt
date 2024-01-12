@@ -1,0 +1,6 @@
+E:\Project\AlgorithmAndDS\AmstrongNumber\AmstrongNumber\bin\Debug\AmstrongNumber.exe.config
+E:\Project\AlgorithmAndDS\AmstrongNumber\AmstrongNumber\bin\Debug\AmstrongNumber.exe
+E:\Project\AlgorithmAndDS\AmstrongNumber\AmstrongNumber\bin\Debug\AmstrongNumber.pdb
+E:\Project\AlgorithmAndDS\AmstrongNumber\AmstrongNumber\obj\Debug\AmstrongNumber.exe
+E:\Project\AlgorithmAndDS\AmstrongNumber\AmstrongNumber\obj\Debug\AmstrongNumber.pdb
+E:\Project\AlgorithmAndDS\AmstrongNumber\AmstrongNumber\obj\Debug\AmstrongNumber.csprojResolveAssemblyReference.cache
